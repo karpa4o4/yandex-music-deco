@@ -1,0 +1,6 @@
+.yandex-music-deco__moving-slider img {
+    z-index: 41;
+    position: absolute;
+    bottom: 0;
+    right: -18px;
+}
