@@ -20,8 +20,10 @@
   ],
   "browser_action": {
     "default_title": "Yandex music deco",
-    "default_icon": "images/nyan_cat.png"
+    "default_icon": "images/nyan_cat.png",
+    "default_popup":"popup.html"
   },
+  "permissions" : ["activeTab"],
   "web_accessible_resources": [
     "images/*"
   ]
